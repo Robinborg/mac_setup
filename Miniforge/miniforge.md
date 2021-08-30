@@ -14,3 +14,13 @@ Activating the environment
 
      conda activate python38
      conda install scikit-learn, pandas, numpy, matplotlib, seaborn
+     
+Installing XGBoost 
+     
+     brew install cmake libomp
+     
+     conda install numpy scipy scikit-learn
+     
+     conda install lightgbm
+     
+     pip install xgboost
